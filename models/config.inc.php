@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Sif
- * Date: 11/19/2017
- * Time: 4:15 PM
- */
 
 define('DB_SERVER', 'localhost');
 define('DB_USER', 'root');
