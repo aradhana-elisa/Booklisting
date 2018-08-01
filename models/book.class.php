@@ -1,11 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Sif
- * Date: 11/19/2017
- * Time: 3:32 PM
- */
-
+ 
 class Book extends Table
 {
     var $title;
